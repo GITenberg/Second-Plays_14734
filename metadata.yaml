@@ -1,0 +1,33 @@
+_repo: Second-Plays_14734
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2005-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 20th century'
+- !lcc 'PR'
+tableOfContents: "Make-believe\r\nMr. Pim passes by\r\nThe Camberley triangle\r\n\
+  The romantic age\r\nThe stepmother."
+title: Second Plays
+url: http://www.gutenberg.org/ebooks/14734
